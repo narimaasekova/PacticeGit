@@ -10,9 +10,9 @@ public class Batch8 {
 
 		System.out.println("Sinan");
 		
-		System.out.println("09.08.2018 11:58");
+		System.out.println("fgdhg");
 		System.out.println(76876);
-		System.out.println(new code 01.53);
+
 	}
 
 }
