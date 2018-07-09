@@ -12,7 +12,7 @@ public class Batch8 {
 		
 		System.out.println("fgdhg");
 		System.out.println(76876);
-		
+
 	}
 
 }
