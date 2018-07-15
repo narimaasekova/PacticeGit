@@ -13,9 +13,7 @@ public class Batch8 {
 		System.out.println("fgdhg");
 		System.out.println(76876);
 
-		System.out.println(new code 01.53);
-		System.out.println(one  more time );
-System.out.println(07.10.2018);
+		//narima made a changes
 	}
 
 }
