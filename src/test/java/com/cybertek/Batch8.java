@@ -5,6 +5,7 @@ import com.github.javafaker.Faker;
 public class Batch8 {
 
 	public static void main(String[] args) {
+		
 		System.out.println("homePage branch");
 		Faker faker =new Faker();
 
@@ -13,10 +14,8 @@ public class Batch8 {
 		System.out.println("fgdhg");
 		System.out.println(76876);
 		System.out.println("7/10/18 change");
-
-		System.out.println(new code 01.53);
-		System.out.println(one  more time );
-System.out.println(07.10.2018);
+       // Khana k = new Khana;
+        
 	}
 
 }
